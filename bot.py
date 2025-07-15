@@ -1,4 +1,7 @@
 import os
+print("🔍 DEBUG: Available ENV keys →", list(os.environ.keys()))
+
+import os
 import random
 import json
 import tweepy
